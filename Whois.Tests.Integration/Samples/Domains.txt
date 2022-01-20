@@ -1,0 +1,1278 @@
+﻿[
+  {
+    "DomainName": "001hosting.com.br",
+    "WhoisServer": "whois.registro.br"
+  },
+  {
+    "DomainName": "025bbs.cn",
+    "WhoisServer": "whois.cnnic.cn"
+  },
+  {
+    "DomainName": "08.pl",
+    "WhoisServer": "whois.dns.pl"
+  },
+  {
+    "DomainName": "1c2.fr",
+    "WhoisServer": "whois.nic.fr"
+  },
+  {
+    "DomainName": "abc.xyz",
+    "WhoisServer": "whois.nic.xyz"
+  },
+  {
+    "DomainName": "abril.cat",
+    "WhoisServer": "whois.cat"
+  },
+  {
+    "DomainName": "academia.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "academyart.kr.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "active.by",
+    "WhoisServer": "whois.cctld.by"
+  },
+  {
+    "DomainName": "adobe.com",
+    "WhoisServer": "whoiscomlaude.com"
+  },
+  {
+    "DomainName": "ahoo.co.jp",
+    "WhoisServer": "whois.jprs.jp"
+  },
+  {
+    "DomainName": "amazon.co.jp",
+    "WhoisServer": "whois.jprs.jp"
+  },
+  {
+    "DomainName": "amazon.de",
+    "WhoisServer": "whois.denic.de"
+  },
+  {
+    "DomainName": "ameblo.jp",
+    "WhoisServer": "whois.jprs.jp"
+  },
+  {
+    "DomainName": "arbed.lu",
+    "WhoisServer": "whois.dns.lu"
+  },
+  {
+    "DomainName": "aucmed.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "autopoint.de.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "baidu.com.sb",
+    "WhoisServer": "whois.nic.net.sb"
+  },
+  {
+    "DomainName": "be",
+    "WhoisServer": "whois.iana.org"
+  },
+  {
+    "DomainName": "bedandbreakfastsearcher.co.uk",
+    "WhoisServer": "whois.nic.uk"
+  },
+  {
+    "DomainName": "behotel.fr",
+    "WhoisServer": "whois.nic.fr"
+  },
+  {
+    "DomainName": "bestb.uy.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "billboard.br.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "bingo.uy.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "boursedirect.fr",
+    "WhoisServer": "whois.nic.fr"
+  },
+  {
+    "DomainName": "brighter.com.hk",
+    "WhoisServer": "whois.hkirc.hk"
+  },
+  {
+    "DomainName": "brown.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "calgary.coop",
+    "WhoisServer": "whois.nic.coop"
+  },
+  {
+    "DomainName": "canon.com.sg",
+    "WhoisServer": "whois.sgnic.sg"
+  },
+  {
+    "DomainName": "carletti.name",
+    "WhoisServer": "whois.nic.name"
+  },
+  {
+    "DomainName": "cdmon.com",
+    "WhoisServer": "whois.cdmon.com"
+  },
+  {
+    "DomainName": "ceo.qc.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "cj7.asia",
+    "WhoisServer": "whois.nic.asia"
+  },
+  {
+    "DomainName": "clear.lk",
+    "WhoisServer": "whois.nic.lk"
+  },
+  {
+    "DomainName": "coco.co.pl",
+    "WhoisServer": "whois.co.pl"
+  },
+  {
+    "DomainName": "college.us.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "com",
+    "WhoisServer": "whois.iana.org"
+  },
+  {
+    "DomainName": "communication.cx",
+    "WhoisServer": "whois.nic.cx"
+  },
+  {
+    "DomainName": "concordecals.com.cn",
+    "WhoisServer": "whois.cnnic.cn"
+  },
+  {
+    "DomainName": "csa.za.org",
+    "WhoisServer": "whois.za.org"
+  },
+  {
+    "DomainName": "dailynews.co.tz",
+    "WhoisServer": "whois.tznic.or.tz"
+  },
+  {
+    "DomainName": "decorstore.it",
+    "WhoisServer": "whois.nic.it"
+  },
+  {
+    "DomainName": "dha.gov.za",
+    "WhoisServer": "whois.gov.za"
+  },
+  {
+    "DomainName": "direct.gov.uk",
+    "WhoisServer": "whois.ja.net"
+  },
+  {
+    "DomainName": "dle.in.ua",
+    "WhoisServer": "whois.in.ua"
+  },
+  {
+    "DomainName": "dns.ie",
+    "WhoisServer": "whois.domainregistry.ie"
+  },
+  {
+    "DomainName": "domaine.nc",
+    "WhoisServer": "whois.nc"
+  },
+  {
+    "DomainName": "dot.cf",
+    "WhoisServer": "whois.dot.cf"
+  },
+  {
+    "DomainName": "ecigsbrand.co.uk",
+    "WhoisServer": "whois.nic.uk"
+  },
+  {
+    "DomainName": "educause.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "eg.rs",
+    "WhoisServer": "whois.rnids.rs"
+  },
+  {
+    "DomainName": "elle.it",
+    "WhoisServer": "whois.nic.it"
+  },
+  {
+    "DomainName": "equipements-pro.com.tn",
+    "WhoisServer": "whois.ati.tn"
+  },
+  {
+    "DomainName": "eurid.eu",
+    "WhoisServer": "whois.eu"
+  },
+  {
+    "DomainName": "example.jobs",
+    "WhoisServer": "whois.nic.jobs"
+  },
+  {
+    "DomainName": "factoryoutlet.me",
+    "WhoisServer": "whois.nic.me"
+  },
+  {
+    "DomainName": "fashionwatch.jp",
+    "WhoisServer": "whois.jprs.jp"
+  },
+  {
+    "DomainName": "fcbank.com.ua",
+    "WhoisServer": "whois.ua"
+  },
+  {
+    "DomainName": "fnb.co.za",
+    "WhoisServer": "coza-whois.registry.net.za"
+  },
+  {
+    "DomainName": "fynbos.sa.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "gencat.cat",
+    "WhoisServer": "whois.cat"
+  },
+  {
+    "DomainName": "ggoogle.ch",
+    "WhoisServer": "whois.nic.ch"
+  },
+  {
+    "DomainName": "glu.ca",
+    "WhoisServer": "whois.cira.ca"
+  },
+  {
+    "DomainName": "google.ac",
+    "WhoisServer": "whois.nic.ac"
+  },
+  {
+    "DomainName": "google.ae",
+    "WhoisServer": "whois.aeda.net.ae"
+  },
+  {
+    "DomainName": "google.af",
+    "WhoisServer": "whois.nic.af"
+  },
+  {
+    "DomainName": "google.ag",
+    "WhoisServer": "whois.nic.ag"
+  },
+  {
+    "DomainName": "google.ai",
+    "WhoisServer": "whois.nic.ai"
+  },
+  {
+    "DomainName": "google.am",
+    "WhoisServer": "whois.amnic.net"
+  },
+  {
+    "DomainName": "google.as",
+    "WhoisServer": "whois.nic.as"
+  },
+  {
+    "DomainName": "google.at",
+    "WhoisServer": "whois.nic.at"
+  },
+  {
+    "DomainName": "google.be",
+    "WhoisServer": "whois.dns.be"
+  },
+  {
+    "DomainName": "google.bg",
+    "WhoisServer": "whois.register.bg"
+  },
+  {
+    "DomainName": "google.bi",
+    "WhoisServer": "whois1.nic.bi"
+  },
+  {
+    "DomainName": "google.biz",
+    "WhoisServer": "whois.biz"
+  },
+  {
+    "DomainName": "google.bj",
+    "WhoisServer": "whois.nic.bj"
+  },
+  {
+    "DomainName": "google.bo",
+    "WhoisServer": "whois.nic.bo"
+  },
+  {
+    "DomainName": "google.bz",
+    "WhoisServer": "whois.afilias-grs.info"
+  },
+  {
+    "DomainName": "google.ca",
+    "WhoisServer": "whois.cira.ca"
+  },
+  {
+    "DomainName": "google.cc",
+    "WhoisServer": "ccwhois.verisign-grs.com"
+  },
+  {
+    "DomainName": "google.cd",
+    "WhoisServer": "whois.nic.cd"
+  },
+  {
+    "DomainName": "google.ch",
+    "WhoisServer": "whois.nic.ch"
+  },
+  {
+    "DomainName": "google.ci",
+    "WhoisServer": "whois.nic.ci"
+  },
+  {
+    "DomainName": "google.cl",
+    "WhoisServer": "whois.nic.cl"
+  },
+  {
+    "DomainName": "google.cm",
+    "WhoisServer": "whois.netcom.cm"
+  },
+  {
+    "DomainName": "google.cn",
+    "WhoisServer": "whois.cnnic.cn"
+  },
+  {
+    "DomainName": "google.co.id",
+    "WhoisServer": "whois.pandi.or.id"
+  },
+  {
+    "DomainName": "google.co.ke",
+    "WhoisServer": "whois.kenic.or.ke"
+  },
+  {
+    "DomainName": "google.co.nz",
+    "WhoisServer": "whois.srs.net.nz"
+  },
+  {
+    "DomainName": "google.co.th",
+    "WhoisServer": "whois.thnic.co.th"
+  },
+  {
+    "DomainName": "google.co.uk",
+    "WhoisServer": "whois.nic.uk"
+  },
+  {
+    "DomainName": "google.co.za",
+    "WhoisServer": "coza-whois.registry.net.za"
+  },
+  {
+    "DomainName": "google.com",
+    "WhoisServer": "whois.markmonitor.com"
+  },
+  {
+    "DomainName": "google.com.au",
+    "WhoisServer": "whois.audns.net.au"
+  },
+  {
+    "DomainName": "google.com.br",
+    "WhoisServer": "whois.registro.br"
+  },
+  {
+    "DomainName": "google.com.fj",
+    "WhoisServer": "whois.usp.ac.fj"
+  },
+  {
+    "DomainName": "google.com.tw",
+    "WhoisServer": "whois.twnic.net.tw"
+  },
+  {
+    "DomainName": "google.com.ua",
+    "WhoisServer": "whois.ua"
+  },
+  {
+    "DomainName": "google.cx",
+    "WhoisServer": "whois.nic.cx"
+  },
+  {
+    "DomainName": "google.cz",
+    "WhoisServer": "whois.nic.cz"
+  },
+  {
+    "DomainName": "google.de",
+    "WhoisServer": "whois.denic.de"
+  },
+  {
+    "DomainName": "google.dk",
+    "WhoisServer": "whois.dk-hostmaster.dk"
+  },
+  {
+    "DomainName": "google.dm",
+    "WhoisServer": "whois.nic.dm"
+  },
+  {
+    "DomainName": "google.dz",
+    "WhoisServer": "whois.nic.dz"
+  },
+  {
+    "DomainName": "google.ec",
+    "WhoisServer": "whois.nic.ec"
+  },
+  {
+    "DomainName": "google.ee",
+    "WhoisServer": "whois.eenet.ee"
+  },
+  {
+    "DomainName": "google.es",
+    "WhoisServer": "whois.nic.es"
+  },
+  {
+    "DomainName": "google.eu",
+    "WhoisServer": "whois.eu"
+  },
+  {
+    "DomainName": "google.eu.org",
+    "WhoisServer": "whois.eu.org"
+  },
+  {
+    "DomainName": "google.fi",
+    "WhoisServer": "whois.fi"
+  },
+  {
+    "DomainName": "google.fm",
+    "WhoisServer": "whois.nic.fm"
+  },
+  {
+    "DomainName": "google.fr",
+    "WhoisServer": "whois.nic.fr"
+  },
+  {
+    "DomainName": "google.gd",
+    "WhoisServer": "whois.nic.gd"
+  },
+  {
+    "DomainName": "google.gg",
+    "WhoisServer": "whois.gg"
+  },
+  {
+    "DomainName": "google.gl",
+    "WhoisServer": "whois.nic.gl"
+  },
+  {
+    "DomainName": "google.gr.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "google.gs",
+    "WhoisServer": "whois.nic.gs"
+  },
+  {
+    "DomainName": "google.gy",
+    "WhoisServer": "whois.registry.gy"
+  },
+  {
+    "DomainName": "google.hk",
+    "WhoisServer": "whois.hkirc.hk"
+  },
+  {
+    "DomainName": "google.hm",
+    "WhoisServer": "whois.registry.hm"
+  },
+  {
+    "DomainName": "google.hn",
+    "WhoisServer": "whois.nic.hn"
+  },
+  {
+    "DomainName": "google.hr",
+    "WhoisServer": "whois.dns.hr"
+  },
+  {
+    "DomainName": "google.ht",
+    "WhoisServer": "whois.nic.ht"
+  },
+  {
+    "DomainName": "google.hu",
+    "WhoisServer": "whois.nic.hu"
+  },
+  {
+    "DomainName": "google.ie",
+    "WhoisServer": "whois.domainregistry.ie"
+  },
+  {
+    "DomainName": "google.im",
+    "WhoisServer": "whois.nic.im"
+  },
+  {
+    "DomainName": "google.in",
+    "WhoisServer": "whois.inregistry.net"
+  },
+  {
+    "DomainName": "google.info",
+    "WhoisServer": "whois.afilias.net"
+  },
+  {
+    "DomainName": "google.io",
+    "WhoisServer": "whois.nic.io"
+  },
+  {
+    "DomainName": "google.iq",
+    "WhoisServer": "whois.cmc.iq"
+  },
+  {
+    "DomainName": "google.ir",
+    "WhoisServer": "whois.nic.ir"
+  },
+  {
+    "DomainName": "google.is",
+    "WhoisServer": "whois.isnic.is"
+  },
+  {
+    "DomainName": "google.it",
+    "WhoisServer": "whois.nic.it"
+  },
+  {
+    "DomainName": "google.je",
+    "WhoisServer": "whois.je"
+  },
+  {
+    "DomainName": "google.jobs",
+    "WhoisServer": "whois.markmonitor.com"
+  },
+  {
+    "DomainName": "google.jp",
+    "WhoisServer": "whois.jprs.jp"
+  },
+  {
+    "DomainName": "google.kg",
+    "WhoisServer": "whois.kg"
+  },
+  {
+    "DomainName": "google.ki",
+    "WhoisServer": "whois.nic.ki"
+  },
+  {
+    "DomainName": "google.kr",
+    "WhoisServer": "whois.kr"
+  },
+  {
+    "DomainName": "google.kz",
+    "WhoisServer": "whois.nic.kz"
+  },
+  {
+    "DomainName": "google.la",
+    "WhoisServer": "whois.nic.la"
+  },
+  {
+    "DomainName": "google.li",
+    "WhoisServer": "whois.nic.li"
+  },
+  {
+    "DomainName": "google.lk",
+    "WhoisServer": "whois.nic.lk"
+  },
+  {
+    "DomainName": "google.lt",
+    "WhoisServer": "whois.domreg.lt"
+  },
+  {
+    "DomainName": "google.lu",
+    "WhoisServer": "whois.dns.lu"
+  },
+  {
+    "DomainName": "google.lv",
+    "WhoisServer": "whois.nic.lv"
+  },
+  {
+    "DomainName": "google.ma",
+    "WhoisServer": "whois.registre.ma"
+  },
+  {
+    "DomainName": "google.md",
+    "WhoisServer": "whois.nic.md"
+  },
+  {
+    "DomainName": "google.me",
+    "WhoisServer": "whois.nic.me"
+  },
+  {
+    "DomainName": "google.mg",
+    "WhoisServer": "whois.nic.mg"
+  },
+  {
+    "DomainName": "google.mn",
+    "WhoisServer": "whois.afilias-grs.info"
+  },
+  {
+    "DomainName": "google.mobi",
+    "WhoisServer": "whois.dotmobiregistry.net"
+  },
+  {
+    "DomainName": "google.ms",
+    "WhoisServer": "whois.nic.ms"
+  },
+  {
+    "DomainName": "google.mu",
+    "WhoisServer": "whois.nic.mu"
+  },
+  {
+    "DomainName": "google.mx",
+    "WhoisServer": "whois.nic.mx"
+  },
+  {
+    "DomainName": "google.my",
+    "WhoisServer": "whois.mynic.my"
+  },
+  {
+    "DomainName": "google.na",
+    "WhoisServer": "whois.na-nic.com.na"
+  },
+  {
+    "DomainName": "google.ne.jp",
+    "WhoisServer": "whois.jprs.jp"
+  },
+  {
+    "DomainName": "google.net",
+    "WhoisServer": "whois.markmonitor.com"
+  },
+  {
+    "DomainName": "google.nf",
+    "WhoisServer": "whois.nic.nf"
+  },
+  {
+    "DomainName": "google.nl",
+    "WhoisServer": "whois.domain-registry.nl"
+  },
+  {
+    "DomainName": "google.no",
+    "WhoisServer": "whois.norid.no"
+  },
+  {
+    "DomainName": "google.nu",
+    "WhoisServer": "whois.iis.nu"
+  },
+  {
+    "DomainName": "google.org",
+    "WhoisServer": "whois.pir.org"
+  },
+  {
+    "DomainName": "google.pe",
+    "WhoisServer": "kero.yachay.pe"
+  },
+  {
+    "DomainName": "google.pl",
+    "WhoisServer": "whois.dns.pl"
+  },
+  {
+    "DomainName": "google.pr",
+    "WhoisServer": "whois.nic.pr"
+  },
+  {
+    "DomainName": "google.pro",
+    "WhoisServer": "whois.afilias.net"
+  },
+  {
+    "DomainName": "google.ps",
+    "WhoisServer": "whois.pnina.ps"
+  },
+  {
+    "DomainName": "google.pt",
+    "WhoisServer": "whois.dns.pt"
+  },
+  {
+    "DomainName": "google.pw",
+    "WhoisServer": "whois.nic.pw"
+  },
+  {
+    "DomainName": "google.ro",
+    "WhoisServer": "whois.rotld.ro"
+  },
+  {
+    "DomainName": "google.ru",
+    "WhoisServer": "whois.tcinet.ru"
+  },
+  {
+    "DomainName": "google.sc",
+    "WhoisServer": "whois.afilias-grs.info"
+  },
+  {
+    "DomainName": "google.se",
+    "WhoisServer": "whois.iis.se"
+  },
+  {
+    "DomainName": "google.sg",
+    "WhoisServer": "whois.sgnic.sg"
+  },
+  {
+    "DomainName": "google.sh",
+    "WhoisServer": "whois.nic.sh"
+  },
+  {
+    "DomainName": "google.si",
+    "WhoisServer": "whois.register.si"
+  },
+  {
+    "DomainName": "google.sk",
+    "WhoisServer": "whois.sk-nic.sk"
+  },
+  {
+    "DomainName": "google.sl",
+    "WhoisServer": "whois.nic.sl"
+  },
+  {
+    "DomainName": "google.sm",
+    "WhoisServer": "whois.nic.sm"
+  },
+  {
+    "DomainName": "google.sn",
+    "WhoisServer": "whois.nic.sn"
+  },
+  {
+    "DomainName": "google.so",
+    "WhoisServer": "whois.nic.so"
+  },
+  {
+    "DomainName": "google.st",
+    "WhoisServer": "whois.nic.st"
+  },
+  {
+    "DomainName": "google.su",
+    "WhoisServer": "whois.tcinet.ru"
+  },
+  {
+    "DomainName": "google.tc",
+    "WhoisServer": "whois.nic.tc"
+  },
+  {
+    "DomainName": "google.tech",
+    "WhoisServer": "whois.nic.tech"
+  },
+  {
+    "DomainName": "google.tel",
+    "WhoisServer": "whois.nic.tel"
+  },
+  {
+    "DomainName": "google.tk",
+    "WhoisServer": "whois.dot.tk"
+  },
+  {
+    "DomainName": "google.tl",
+    "WhoisServer": "whois.nic.tl"
+  },
+  {
+    "DomainName": "google.tm",
+    "WhoisServer": "whois.nic.tm"
+  },
+  {
+    "DomainName": "google.tn",
+    "WhoisServer": "whois.ati.tn"
+  },
+  {
+    "DomainName": "google.tv",
+    "WhoisServer": "tvwhois.verisign-grs.com"
+  },
+  {
+    "DomainName": "google.us",
+    "WhoisServer": "whois.nic.us"
+  },
+  {
+    "DomainName": "google.uz",
+    "WhoisServer": "whois.cctld.uz"
+  },
+  {
+    "DomainName": "google.vc",
+    "WhoisServer": "whois.afilias-grs.info"
+  },
+  {
+    "DomainName": "google.vg",
+    "WhoisServer": "ccwhois.ksregistry.net"
+  },
+  {
+    "DomainName": "google.ws",
+    "WhoisServer": "whois.website.ws"
+  },
+  {
+    "DomainName": "gouv.nc",
+    "WhoisServer": "whois.nc"
+  },
+  {
+    "DomainName": "gratisdatingplaza.be",
+    "WhoisServer": "whois.dns.be"
+  },
+  {
+    "DomainName": "gsa.gov",
+    "WhoisServer": "whois.dotgov.gov"
+  },
+  {
+    "DomainName": "gsn.cn.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "harvard.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "history.uk.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "hostgator.com.br",
+    "WhoisServer": "whois.registro.br"
+  },
+  {
+    "DomainName": "hotel.ar.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "hotel.fr",
+    "WhoisServer": "whois.nic.fr"
+  },
+  {
+    "DomainName": "hotel.gb.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "hotel.gb.net",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "hotel.hu.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "hotel.md",
+    "WhoisServer": "whois.nic.md"
+  },
+  {
+    "DomainName": "hotel.se.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "hotel.se.net",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "html.it",
+    "WhoisServer": "whois.nic.it"
+  },
+  {
+    "DomainName": "imdb.it",
+    "WhoisServer": "whois.nic.it"
+  },
+  {
+    "DomainName": "internet.co.ca",
+    "WhoisServer": "whois.co.ca"
+  },
+  {
+    "DomainName": "internet.ee",
+    "WhoisServer": "whois.tld.ee"
+  },
+  {
+    "DomainName": "ip6.arpa",
+    "WhoisServer": "whois.iana.org"
+  },
+  {
+    "DomainName": "joburg.org.za",
+    "WhoisServer": "org-whois.registry.net.za"
+  },
+  {
+    "DomainName": "karnaugh.za.net",
+    "WhoisServer": "whois.za.net"
+  },
+  {
+    "DomainName": "kidzlink.ae.org",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "koi.jpn.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "kyivstar.ua",
+    "WhoisServer": "whois.ua"
+  },
+  {
+    "DomainName": "lboro.ac.uk",
+    "WhoisServer": "whois.ja.net"
+  },
+  {
+    "DomainName": "lg.co.kr",
+    "WhoisServer": "whois.kr"
+  },
+  {
+    "DomainName": "loopia.se",
+    "WhoisServer": "whois.iis.se"
+  },
+  {
+    "DomainName": "m4r0c-s3curity.cc",
+    "WhoisServer": "ccwhois.verisign-grs.com"
+  },
+  {
+    "DomainName": "masala.xxx",
+    "WhoisServer": "whois.nic.xxx"
+  },
+  {
+    "DomainName": "masterhost.ru",
+    "WhoisServer": "whois.tcinet.ru"
+  },
+  {
+    "DomainName": "mit.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "moscowfood.coop",
+    "WhoisServer": "whois.nic.coop"
+  },
+  {
+    "DomainName": "mpsnet.net.mx",
+    "WhoisServer": "whois.nic.mx"
+  },
+  {
+    "DomainName": "musedoma.museum",
+    "WhoisServer": "whois.museum"
+  },
+  {
+    "DomainName": "nato.int",
+    "WhoisServer": "whois.iana.org"
+  },
+  {
+    "DomainName": "nestle.lk",
+    "WhoisServer": "whois.nic.lk"
+  },
+  {
+    "DomainName": "netbenefit.co.uk",
+    "WhoisServer": "whois.nic.uk"
+  },
+  {
+    "DomainName": "nhv.se",
+    "WhoisServer": "whois.iis.se"
+  },
+  {
+    "DomainName": "nic.college",
+    "WhoisServer": "whois.nic.college"
+  },
+  {
+    "DomainName": "nic.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "nic.fo",
+    "WhoisServer": "whois.nic.fo"
+  },
+  {
+    "DomainName": "nic.fr",
+    "WhoisServer": "whois.nic.fr"
+  },
+  {
+    "DomainName": "nic.lc",
+    "WhoisServer": "whois.afilias-grs.info"
+  },
+  {
+    "DomainName": "nic.net.ng",
+    "WhoisServer": "whois.nic.net.ng"
+  },
+  {
+    "DomainName": "nic.pm",
+    "WhoisServer": "whois.nic.pm"
+  },
+  {
+    "DomainName": "nic.priv.at",
+    "WhoisServer": "whois.nic.priv.at"
+  },
+  {
+    "DomainName": "nic.re",
+    "WhoisServer": "whois.nic.re"
+  },
+  {
+    "DomainName": "nic.space",
+    "WhoisServer": "whois.nic.space"
+  },
+  {
+    "DomainName": "nic.tattoo",
+    "WhoisServer": "whois.uniregistry.net"
+  },
+  {
+    "DomainName": "nic.tf",
+    "WhoisServer": "whois.nic.fr"
+  },
+  {
+    "DomainName": "nic.wed",
+    "WhoisServer": "whois.nic.wed"
+  },
+  {
+    "DomainName": "nic.wf",
+    "WhoisServer": "whois.nic.wf"
+  },
+  {
+    "DomainName": "nic.yt",
+    "WhoisServer": "whois.nic.fr"
+  },
+  {
+    "DomainName": "nom.pl",
+    "WhoisServer": "whois.dns.pl"
+  },
+  {
+    "DomainName": "novalash.asia",
+    "WhoisServer": "whois.nic.asia"
+  },
+  {
+    "DomainName": "ntt.jp.net",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "nyu.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "oogle.com.ua",
+    "WhoisServer": "whois.ua"
+  },
+  {
+    "DomainName": "orbitel.bg",
+    "WhoisServer": "whois.register.bg"
+  },
+  {
+    "DomainName": "paramount.uk.net",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "pcihealth.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "pedamotor.kz",
+    "WhoisServer": "whois.nic.kz"
+  },
+  {
+    "DomainName": "pentex.pl",
+    "WhoisServer": "whois.dns.pl"
+  },
+  {
+    "DomainName": "phoca.cz",
+    "WhoisServer": "whois.nic.cz"
+  },
+  {
+    "DomainName": "pinewood.com.au",
+    "WhoisServer": "whois.audns.net.au"
+  },
+  {
+    "DomainName": "plasticsurgery.la",
+    "WhoisServer": "whois.nic.la"
+  },
+  {
+    "DomainName": "populiscreate.se",
+    "WhoisServer": "whois.iis.se"
+  },
+  {
+    "DomainName": "posteitaliane.post",
+    "WhoisServer": "whois.dotpostregistry.net"
+  },
+  {
+    "DomainName": "prodns.de",
+    "WhoisServer": "whois.denic.de"
+  },
+  {
+    "DomainName": "pui.ch",
+    "WhoisServer": "whois.nic.ch"
+  },
+  {
+    "DomainName": "qnb.com.qa",
+    "WhoisServer": "whois.registry.qa"
+  },
+  {
+    "DomainName": "qtel.com.qa",
+    "WhoisServer": "whois.registry.qa"
+  },
+  {
+    "DomainName": "realityporno.cz",
+    "WhoisServer": "whois.nic.cz"
+  },
+  {
+    "DomainName": "redis.io",
+    "WhoisServer": "whois.nic.io"
+  },
+  {
+    "DomainName": "regeringen.ax",
+    "WhoisServer": "whois.ax"
+  },
+  {
+    "DomainName": "register.be",
+    "WhoisServer": "whois.dns.be"
+  },
+  {
+    "DomainName": "registry.capetown",
+    "WhoisServer": "capetown-whois.registry.net.za"
+  },
+  {
+    "DomainName": "rop.gov.om",
+    "WhoisServer": "whois.registry.om"
+  },
+  {
+    "DomainName": "rte.ie",
+    "WhoisServer": "whois.domainregistry.ie"
+  },
+  {
+    "DomainName": "rya.nc",
+    "WhoisServer": "whois.nc"
+  },
+  {
+    "DomainName": "rybarskepotreby-marek.cz",
+    "WhoisServer": "whois.nic.cz"
+  },
+  {
+    "DomainName": "sapphire.gi",
+    "WhoisServer": "whois.afilias-grs.info"
+  },
+  {
+    "DomainName": "saudigazette.com.sa",
+    "WhoisServer": "whois.nic.net.sa"
+  },
+  {
+    "DomainName": "serveriai.lt",
+    "WhoisServer": "whois.domreg.lt"
+  },
+  {
+    "DomainName": "set.tv",
+    "WhoisServer": "tvwhois.verisign-grs.com"
+  },
+  {
+    "DomainName": "shingara.fr",
+    "WhoisServer": "whois.nic.fr"
+  },
+  {
+    "DomainName": "siyenza.za.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "spd.co.il",
+    "WhoisServer": "whois.isoc.org.il"
+  },
+  {
+    "DomainName": "srk.ru.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "stanford.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "syr.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "t.co",
+    "WhoisServer": "whois.nic.co"
+  },
+  {
+    "DomainName": "tabu.kz",
+    "WhoisServer": "whois.nic.kz"
+  },
+  {
+    "DomainName": "tcd.ie",
+    "WhoisServer": "whois.domainregistry.ie"
+  },
+  {
+    "DomainName": "telbru.com.bn",
+    "WhoisServer": "whois.bnnic.bn"
+  },
+  {
+    "DomainName": "tld.sy",
+    "WhoisServer": "whois.tld.sy"
+  },
+  {
+    "DomainName": "tntpost.nl",
+    "WhoisServer": "whois.domain-registry.nl"
+  },
+  {
+    "DomainName": "toplevel.design",
+    "WhoisServer": "whois.nic.design"
+  },
+  {
+    "DomainName": "travel.travel",
+    "WhoisServer": "whois.nic.travel"
+  },
+  {
+    "DomainName": "ucicinemas.it",
+    "WhoisServer": "whois.nic.it"
+  },
+  {
+    "DomainName": "uiuc.edu",
+    "WhoisServer": "whois.educause.edu"
+  },
+  {
+    "DomainName": "ula.ve",
+    "WhoisServer": "whois.nic.ve"
+  },
+  {
+    "DomainName": "umac.mo",
+    "WhoisServer": "whois.monic.mo"
+  },
+  {
+    "DomainName": "usedautos.joburg",
+    "WhoisServer": "joburg-whois.registry.net.za"
+  },
+  {
+    "DomainName": "u-tokyo.ac.jp",
+    "WhoisServer": "whois.jprs.jp"
+  },
+  {
+    "DomainName": "venetamarmi.it",
+    "WhoisServer": "whois.nic.it"
+  },
+  {
+    "DomainName": "videogratis.in",
+    "WhoisServer": "whois.inregistry.net"
+  },
+  {
+    "DomainName": "walkabout.eu.com",
+    "WhoisServer": "whois.centralnic.com"
+  },
+  {
+    "DomainName": "webcams.travel",
+    "WhoisServer": "whois.nic.travel"
+  },
+  {
+    "DomainName": "whereismy.bike",
+    "WhoisServer": "whois.donuts.co"
+  },
+  {
+    "DomainName": "whois.co.ug",
+    "WhoisServer": "whois.co.ug"
+  },
+  {
+    "DomainName": "whois.sx",
+    "WhoisServer": "whois.sx"
+  },
+  {
+    "DomainName": "wordpress.durban",
+    "WhoisServer": "durban-whois.registry.net.za"
+  },
+  {
+    "DomainName": "wossna.me",
+    "WhoisServer": "whois.nic.me"
+  },
+  {
+    "DomainName": "xn--4kcolx4fsa0gdt6j.xn--xkc2al3hye2a",
+    "WhoisServer": "whois.nic.lk"
+  },
+  {
+    "DomainName": "xn----8sbc3ahklcs4adf.xn--p1ai",
+    "WhoisServer": "whois.tcinet.ru"
+  },
+  {
+    "DomainName": "xn--fzc3a2azd8dsa2ktat.xn--fzc2c9e2c",
+    "WhoisServer": "whois.nic.lk"
+  },
+  {
+    "DomainName": "y.com",
+    "WhoisServer": "whois.verisign-grs.com"
+  },
+  {
+    "DomainName": "youtu.be",
+    "WhoisServer": "whois.dns.be"
+  },
+  {
+    "DomainName": "zumba.com.ve",
+    "WhoisServer": "whois.nic.ve"
+  }
+]
